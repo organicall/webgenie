@@ -1,14 +1,13 @@
-# React + Vite
+# WebGenie
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WebGenie lets you easily design and build layouts for your website.  
+With a simple drag-and-drop interface, you can add and customize elements like text, images, and buttons.
 
-Currently, two official plugins are available:
+**Features:**
+- Drag and drop text, images, and buttons onto your canvas
+- Customize size, color, font, and font size
+- Build beautiful, responsive layouts without writing code
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Start creating your perfect web layout in minutes with WebGenie! ✨
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# webgenie
-# webgenie
+Visit Webgenie: https://webgenie-gold.vercel.app/
